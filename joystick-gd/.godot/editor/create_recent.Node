@@ -1,0 +1,7 @@
+AnimatedSprite2D
+AnimationPlayer
+CollisionShape2D
+ColorRect
+CanvasLayer
+CharacterBody2D
+HTTPRequest
